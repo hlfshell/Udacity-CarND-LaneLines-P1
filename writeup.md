@@ -85,9 +85,17 @@ Once we have the lines, draw them over the original frame image using opencv's `
 ## The whole process
 Below is a series of images screenshotted with the `debug=True` flag set, showing each stage in the pipeline.
 
+
+
 ![](pipeline_process_0.png)
+
+
 ![](pipeline_process_1.png)
+
+
 ![](pipeline_process_2.png)
+
+
 
 ## Video and memory
 
